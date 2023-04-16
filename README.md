@@ -1,4 +1,4 @@
- # Change PassWord To-User/Group
+ # Change PassWord For User/Group
                                                     
 In order to run the **first** script that changes a password for a **single user**, you must use the username found in the active directory .  
 
